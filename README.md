@@ -1,2 +1,2 @@
-# sample
-Sample Site
+# Demo
+Demo Site
